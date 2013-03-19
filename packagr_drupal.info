@@ -1,0 +1,4 @@
+name = Packagr Data Access API
+description = A plugin that allows Packa.gr remote access to full back catalog of content
+core = 7.x
+project="Packagr"
